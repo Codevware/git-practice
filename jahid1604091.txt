@@ -1,0 +1,4 @@
+Hello,
+This is Jahid
+A passionate Full Stack Developer
+Works with MERN Stack
